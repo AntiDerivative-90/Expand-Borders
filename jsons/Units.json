@@ -1,0 +1,13 @@
+[
+    {
+	"name": "Pioneer",
+	"unitType": "Civilian",
+	"movement": 2,
+	"requiredTech": "Printing Press",
+	"cost": 600
+	"uniques": [
+		"Unbuildable",
+		"Can instantly construct a [Settlement] improvement <by consuming this unit>"
+		]
+    }
+]

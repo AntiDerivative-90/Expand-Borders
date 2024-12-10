@@ -1,0 +1,69 @@
+
+game.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Settlement
+  rotate: false
+  xy: 112, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pioneer
+  rotate: false
+  xy: 220, 43
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pioneer-1
+  rotate: false
+  xy: 323, 43
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pioneer-2
+  rotate: false
+  xy: 426, 43
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Settlement
+  rotate: false
+  xy: 601, 59
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pioneer
+  rotate: false
+  xy: 601, 95
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Settlement
+  rotate: false
+  xy: 529, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pioneer
+  rotate: false
+  xy: 529, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/Pioneer
+  rotate: false
+  xy: 4, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
